@@ -10,7 +10,7 @@ package com.ggwlot.first;
  *
  * @author T107
  */
-public class CuentaNominaImpl implements ServicioCuenta{
+public class CuentaNominaImpl extends Cuenta implements ServicioCuenta{
     
   @Override
     public String crearCuenta (){
