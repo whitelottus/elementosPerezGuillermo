@@ -1,9 +1,8 @@
-
 package com.ggwlot.first;
 
 /**
  *
- * @author Whitelottus
+ * @author Whitelottusxxx
  */
 public class CuentaDebitoImpl extends Cuenta implements ServicioCuenta {
     
