@@ -6,8 +6,8 @@ package com.ggwlot.first;
  *
  * @author Whitelottus
  */
-public class CuentaNomina extends Cuenta {
+public interface ServicioCuenta {
     
-    int numero;
+    public String crearCuenta();
     
 }

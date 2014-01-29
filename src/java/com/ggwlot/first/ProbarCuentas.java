@@ -11,7 +11,7 @@ public class ProbarCuentas {
         
        System.out.println("Bienvenido a la creación de cuentas");
        CuentaAhorro c=new CuentaAhorro();
-       System.out.println(c.generarCuenta());
+       
     }
     
 }
